@@ -20,7 +20,7 @@ yf2726@tc.columbia.edu
 Yanxing Huang  
 yh3736@tc.columbia.edu
 
-Qianhua Zhou
+Qianhua Zhou   
 qz2543@tc.columbia.edu
 
 When emailing the professor or CAs: Please remember to include "HUDM5001" in your email subject line.
