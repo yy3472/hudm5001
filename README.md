@@ -1,6 +1,6 @@
-## Syllabus: HUDM 5001 – Programming for Data Science  
+<img width="468" height="16" alt="image" src="https://github.com/user-attachments/assets/845e58f8-924a-4878-9491-569123c42415" />## Syllabus: HUDM 5001 – Programming for Data Science  
 
-Fall 2024
+Fall 2025
 
 Lecture Times: Tues 11:00 am - 12:40 pm, in-person  
 Note: All times mentioned throughout the Canvas site and Syllabus are Eastern Time (US)
@@ -14,17 +14,19 @@ Youmi Suk
 ysuk@tc.columbia.edu 
 
 **Course Assistant**  
-Wenxuan Wang  
-ww2681@tc.columbia.edu  
+Yaopeng Fu  
+yf2726@tc.columbia.edu  
 
-Xiran Wen  
-xw2969@tc.columbia.edu
+Yanxing Huang  
+yh3736@tc.columbia.edu
+
+Qianhua Zhou
+qz2543@tc.columbia.edu
 
 When emailing the professor or CAs: Please remember to include "HUDM5001" in your email subject line.
 
 ## Course Overview and Learning Outcomes: 
-This course is an introduction to essential programming concepts, structures, and techniques for data science. Topics covered include data types, data structures, control statements, and functions, using the NumPy and Pandas libraries in the programming language Python. The course also covers version control using GitHub and database management using SQLite. Additionally, content on the development of interactive plots and dashboards using Plotly and Dash libraries will be included.
-
+This course is an introduction to essential programming concepts, structures, and techniques for data science. Topics covered include data types, data structures, control statements, and functions, using the NumPy and Pandas libraries in the programming language Python. The course also covers version control using GitHub and database management using SQLite. Additionally, the course includes content on data visualizations and coding practices using AI.
 
 At the end of the course, students will  
 (1)	Be able to confidently work in an appropriate programming environment (IDE).  
@@ -66,37 +68,30 @@ Freely available through the library: https://learning.oreilly.com/library/view/
     - classes
     - unit testing
 - Python Data Visualization
-    - Matplotlib, Plotnine, Plotly, and Dash 
+    - Matplotlib, Plotnine, Plotly
 
 ## Schedule of Topics and Assignments
 
-A = Programming Assignments, Q = Take-Home Quizzes, "Q" = In-Class Quizzes
+A = Programming Assignments, Q = Take-Home Quizzes (Honorlock)
 
 | Week 	| Date 	| Topics | Assignments
 |:---:	|:---:	|---	|---	| 
-| Week 1 | 9/3 | Syllabus and the Shell | Q, Pre-class Survey
-| Week 2 | 9/10 | GitHub	| A
-| Week 3 | 9/17 | Python Introduction: Data Types, Variables and Expressions | A, Q
-| Week 4 | 9/24 |  Python Introduction: Operators, Input/Output, Numpy	| A
-| Week 5 | 10/1 |  Python Introduction: Pandas 	| A, Q
-| Week 6 | 10/8 |  Pandas, SQLite Database	| A, "Q" (10/15)
-| Week 7 | 10/15 |  Control Structures and Iterables | A, Q
-| Week 8 | 10/22 |  Functions, Lambdas, List Comprehensions	| A, Q
-| Week 9 | 10/29 |  Recursion and Running From the Command Line | A, Q
-| Week 10 | 11/5	|  College Holiday (Election Day) |
-| Week 11 | 11/12 |  Python Classes	| A, "Q" (11/19)
-| Week 12 | 11/19 |  Unit Testing and Exception Handling | A, Midterm Presentation Slides
-| Week 13 | 11/26 | Jupyter Notebook Presentation (Midterm) | Q
-| Week 14 | 12/3	| Data Visualization: Matplotlib, Plotnine, and Plotly   | A, Q
-| Week 15 | 12/10	| Dash | A, Q
-| Week 16 | 12/17	|  Final Project | Final Report
-
-### Important Dates  
-Date of First Live Session: Sep 3, 2024  
-Date of Last Live Session: Dec 10, 2024 (final meeting day)  
-In-class Quizzes: Oct 15 and Nov 19  
-Midterm Presentation Date: Nov 26, 2024   
-Semester Project Due Date: Dec 17, 2024 at 11:59 pm
+| Week 1 | 9/2 | Syllabus and the Shell | Pre-class Survey
+| Week 2 | 9/9 | GitHub	| A, Q
+| Week 3 | 9/16 | Python Introduction: Data Types, Variables and Expressions | A, Q
+| Week 4 | 9/23 |  Python Introduction: Operators, Input/Output, Numpy	| A
+| Week 5 | 9/30 |  Python Introduction: Pandas 	| A, Q
+| Week 6 | 10/7 |  Pandas, SQLite Database	| A, Q
+| Week 7 | 10/14 |  Control Structures and Iterables | A, Q
+| Week 8 | 10/21 |  Functions, Lambdas, List Comprehensions	| A, Q
+| Week 9 | 10/28 | Midterm | 
+| Week 10 | 11/4	|  College Holiday (Election Day) |
+| Week 11 | 11/11 |  Python Classes	| A, Q
+| Week 12 | 11/18 |  Unit Testing and Exception Handling | A, Midterm Presentation Slides
+| Week 13 | 11/25 | Coding Practices with AI | Q
+| Week 14 | 12/2	| Jupyter Notebook Presentation (Review)   | A, Q
+| Week 15 | 12/9	| Final Project Discussions | A, Q
+| Week 16 | 12/16	|  Final Project | Final Report
 
 ### Programming Assignments, Quizzes, the Midterm, and the Final Project
 
@@ -106,9 +101,14 @@ The programming assignments consist of focused exercises related to each week’
 
 *Quizzes*: 
 
-There will be several quizzes throughout the semester that will assess your knowledge of the various topics. Quizzes are based on the Jupyter Notebooks. All quizzes are mandatory for all students to take. Importantly, the quizzes should be done in a **“closed book”** format, which means you should not consult any resources including notes, books, the web, devices, or other external media. Quizzes will be administered either as take-home or in-class tests. In-class quizzes are scheduled for October 15 and November 19 from 11:00-11:20 am. Please arrive on time with your local machine, as late assignments will not be accepted for in-class quizzes except in cases of emergency. For take-home quizzes, a late assignment penalty of 10% of the total score will be applied for each day past the due date. If you know in advance that you will miss any of the scheduled quizzes, you must make arrangements with the instructor at least one month ahead of time. 
+There will be several quizzes throughout the semester that will assess your knowledge of the various topics. Quizzes are based on the Jupyter Notebooks. All quizzes are mandatory for all students to take. Importantly, the quizzes should be done in a **closed book** format, which means you should not consult any resources including notes, books, the web, devices, or other external media. Quizzes will be administered via the **HonorLock** system. **No** late policy will be applied. If you know in advance that you will miss any of the scheduled quizzes, you must make arrangements in advance with the instructor. (At least one week in advance if possible, or as soon as you are able if an unforeseen event occurs preventing you from taking the quiz.)
+
 
 *Midterm*: 
+
+The midterm will cover Weeks 1–8, and will be an in-person exam. You will be allowed one 8 ½ x 11 one-sided **cheat sheet.** You’re allowed to bring a calculator.
+
+*Presentation*:
 
 The instructor will place you into a group of 3-4 students. Your group will give a presentation about one topic we’ve discussed in the course. The instructor will provide a list of presentation topics, and each group needs to choose one topic. The midterm presentation is a 7-min oral presentation about the chosen topic, and it should consist of explaining one or two concepts and demonstrating them with a few examples. You will also have to make three questions about the chosen topic for the quiz in the midterm week. You will use Jupyter Notebooks or PowerPoint slides for the presentation and all the group members will present together on the presentation date. Be sure to practice beforehand, and time yourselves before you give the midterm presentation.
 
@@ -119,6 +119,8 @@ You will work with other students in the same group as for the midterm presentat
 The final project should form a research question, and perform data pre-processing, data cleaning, outlier removal, and so on to sanitize your data as necessary. Explore your data to reveal interesting/useful information based on your project scenario, and create at least 2 visualizations that you find interesting/useful. Also, do at least one of the following, depending in your interests and background: (i) compute meaningful statistical quantities (e.g., means, correlations), (ii) perform a statistical test on the data (e.g., t-test), or (iii) fit a model to the data (e.g., regression).  
 
 The final report should cover the following sections: abstract, introduction, data, data processing methodology, results, and conclusions. Also, you should submit your Python codes, and make detailed annotations on the codes so that peers can easily reproduce your work. The files can be in Jupyter Notebooks or Python scripts. The maximum number of pages is limited to 10 pages (double spaced; excluding the appendix). The paper should be written as coherently as possible. More details about the final project will be announced on Canvas.
+
+*Attendance*: Regular attendance is required for this course. Missing more than three sessions will have a negative impact on your final grade.
 
 ### Data
 For your final project, you will analyze real data and draw meaningful conclusions with regard to your research questions. Here is a list of websites where you can find interesting data.
@@ -156,9 +158,10 @@ Courses at Teachers College use [the following grading system](https://www.tc.co
 
 |Component 	| Weight	|
 |---	|:---:|
-|Programming Assignments (drop one) |35%|
-|Quizzes	|40%|
-|Midterm	|10%|
+|Programming Assignments (drop one) |25%|
+|Quizzes	|30%|
+|Midterm	|20%|
+|Presentation	|10%|
 |Final Project |15%|
 
                                             
@@ -175,7 +178,7 @@ Courses at Teachers College use [the following grading system](https://www.tc.co
 Note that A+, B+, and C+ will be determined by the class curve and overall performance in the course.
 
 ## AI/ChatGPT
-Intellectual honesty is vital for an academic community and for the fair evaluation of your work by teaching staff. All work submitted in this course must be your own or that of your group, completed in accordance with the University’s academic policies. You should not engage in unauthorized collaboration or make use of ChatGPT or any other AI composition software to complete any of the course assignments.
+Intellectual honesty is vital for an academic community and for the fair evaluation of your work by teaching staff. All work submitted in this course must be your own or that of your group, completed in accordance with the University’s academic policies. You should not engage in unauthorized collaboration or make use of ChatGPT or any other AI composition software to complete programming assignments and the final report.
 
 ## Services for Students with Disabilities
 The College will make reasonable accommodations for persons with documented disabilities. Students are encouraged to contact the Office of Access and Services for Individuals with Disabilities for information about registration (166 Thorndike Hall). Services are available only to students who are registered and submit appropriate documentation." As your instructor, I am happy to discuss specific needs with you as well.
