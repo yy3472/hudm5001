@@ -1,4 +1,4 @@
-<img width="468" height="16" alt="image" src="https://github.com/user-attachments/assets/845e58f8-924a-4878-9491-569123c42415" />## Syllabus: HUDM 5001 – Programming for Data Science  
+## Syllabus: HUDM 5001 – Programming for Data Science  
 
 Fall 2025
 
