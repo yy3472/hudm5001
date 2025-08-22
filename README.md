@@ -120,7 +120,9 @@ The final project should form a research question, and perform data pre-processi
 
 The final report should cover the following sections: abstract, introduction, data, data processing methodology, results, and conclusions. Also, you should submit your Python codes, and make detailed annotations on the codes so that peers can easily reproduce your work. The files can be in Jupyter Notebooks or Python scripts. The maximum number of pages is limited to 10 pages (double spaced; excluding the appendix). The paper should be written as coherently as possible. More details about the final project will be announced on Canvas.
 
-*Attendance*: Regular attendance is required for this course. Missing more than three sessions will have a negative impact on your final grade.
+*Attendance*: 
+
+Regular attendance is required for this course. Missing more than three sessions will have a negative impact on your final grade.
 
 ### Data
 For your final project, you will analyze real data and draw meaningful conclusions with regard to your research questions. Here is a list of websites where you can find interesting data.
